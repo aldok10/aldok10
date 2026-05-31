@@ -35,8 +35,12 @@ I believe in the power of sharing code and giving back to the community. Here ar
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect & Support!
 
-I am always open to tech discussions, collaborations, or simply sharing warm and insightful new ideas.
+I am always open to tech discussions, collaborations, or simply sharing warm and insightful new ideas. 
+
+If you find my open-source contributions helpful, you can support my work here:
+
+[![Support me on SociaBuzz](https://img.shields.io/badge/Support_My_Work-SociaBuzz-FFC107?style=for-the-badge&logo=coffeescript&logoColor=black)](https://sociabuzz.com/aldok10)
 
 ⭐ *Thank you for visiting my profile!*
